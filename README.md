@@ -9,7 +9,7 @@ The technologies are:
 
 > Practice is the key to master whatever you want, specially in tech
 
-* For running this project: npm run dev
+* For running this project: npm run dev *
 
 * Contact me at https://bravedeveloper.com *
 
